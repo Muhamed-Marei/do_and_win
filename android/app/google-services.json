@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084569115544",
+    "project_id": "do-and-win",
+    "storage_bucket": "do-and-win.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084569115544:android:a6990c3e226d69c9a629ed",
+        "android_client_info": {
+          "package_name": "com.example.do_and_win"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084569115544-pti124et2lee2rldm6l3uo7mvs1k5nte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC19VmDRX_s4rx_gV9emdT_SF3XCCmqxFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084569115544-pti124et2lee2rldm6l3uo7mvs1k5nte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
